@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ehmkah
+- 👀 I’m interested in computer keyboards of any kind
+- 🌱 I’m currently learning Typescript and how to grow plants from seeds
+- 💞️ I’m looking to collaborate on every issue which bugs me 
+- 📫 How to reach me - open an issue
+
+<!---
+ehmkah/ehmkah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
